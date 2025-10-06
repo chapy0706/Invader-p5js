@@ -43,4 +43,4 @@ HTML / CSS / JS を分離し、ブラウザだけで動作します（CDN読み�
 
 - モダンブラウザ（Chrome / Edge / Firefox / Safari など）
 
-- オンライン（p5.js CDN: https://cdn.jsdelivr.net/npm/p5@1.11.0/lib/p5.min.js）
+- リファレンス: https://p5js.org/reference/
